@@ -31,7 +31,7 @@ Parkinson's disease indicators.
 ## Results
 - Successfully built a model that predicts Parkinson's disease from the 
   given dataset.
-- * 94% accuracy, 0.91 F1-score*
+-  94% accuracy, 0.91 F1-score
 
 ## How to Run
 ```bash
